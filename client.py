@@ -5,7 +5,7 @@ import time
 import argparse
 import threading
 
-SERVER_HOST = "localhost"
+SERVER_HOST = "192.168.1.165"
 SERVER_PORT = 6767
 
 parser = argparse.ArgumentParser()
@@ -48,7 +48,6 @@ try:
 
 except Exception as e:
     print(f"[CLIENT] Erreur lors de la négociation DHCP: {e}")
-    print(f"[CLIENT] IP {ip} attribuée")
 
     def renew_loop():
         while True:

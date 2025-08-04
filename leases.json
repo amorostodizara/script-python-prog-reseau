@@ -1,56 +1,56 @@
 {
   "192.168.1.2": {
     "status": "used",
-    "mac": "02:00:00:1e:42:80",
-    "lease_start": 1754313864.0307534,
+    "mac": "02:00:00:49:96:93",
+    "lease_start": 1754315345.6403096,
     "lease_time": 30
   },
   "192.168.1.3": {
     "status": "used",
-    "mac": "02:00:00:49:65:16",
-    "lease_start": 1754313875.1377146,
+    "mac": "02:00:00:5f:5b:ac",
+    "lease_start": 1754315351.4606173,
     "lease_time": 30
   },
   "192.168.1.4": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:28:7b:c9",
+    "lease_start": 1754315361.4848466,
     "lease_time": 30
   },
   "192.168.1.5": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:27:f4:a6",
+    "lease_start": 1754315363.2249749,
     "lease_time": 30
   },
   "192.168.1.6": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:07:1c:ad",
+    "lease_start": 1754315364.7467234,
     "lease_time": 30
   },
   "192.168.1.7": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:4e:d5:2b",
+    "lease_start": 1754315366.0482833,
     "lease_time": 30
   },
   "192.168.1.8": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:57:f5:51",
+    "lease_start": 1754315367.4136174,
     "lease_time": 30
   },
   "192.168.1.9": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:74:67:93",
+    "lease_start": 1754315368.637009,
     "lease_time": 30
   },
   "192.168.1.10": {
-    "status": "free",
-    "mac": "",
-    "lease_start": 0,
+    "status": "used",
+    "mac": "02:00:00:03:98:6c",
+    "lease_start": 1754315371.0693288,
     "lease_time": 30
   },
   "192.168.1.11": {

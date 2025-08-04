@@ -15,7 +15,7 @@ DEFAULT_LEASE_DURATION = 30  # 1 h
 IP_POOL = [f"192.168.1.{i}" for i in range(2, 254)]  # 192.168.1.10‑20 pour tests
 
 # === Ping de surveillance (désactivé par défaut en simulation locale) ===
-PING_ENABLED = False  # passe à True si tes clients ont vraiment l'IP sur le réseau
+PING_ENABLED = True  # passe à True si tes clients ont vraiment l'IP sur le réseau
 PING_INTERVAL = 10  # secondes
 PING_FAILURE_THRESHOLD = 3  # essais
 

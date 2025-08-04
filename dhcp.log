@@ -1,12 +1,26 @@
-Mon Aug  4 15:45:11 2025 - OFFER 192.168.1.2 → 02:00:00:12:c3:7c
-Mon Aug  4 15:45:11 2025 - ACK 192.168.1.2 attribuée à 02:00:00:12:c3:7c (30s)
-Mon Aug  4 15:52:03 2025 - Bail expiré pour 192.168.1.2
-Mon Aug  4 15:52:03 2025 - IP 192.168.1.2 libérée et leases.json mis à jour
-Mon Aug  4 15:52:03 2025 - OFFER 192.168.1.2 → 02:00:00:34:e1:5a
-Mon Aug  4 15:52:03 2025 - ACK 192.168.1.2 attribuée à 02:00:00:34:e1:5a (30s)
-Mon Aug  4 16:24:24 2025 - Bail expiré pour 192.168.1.2
-Mon Aug  4 16:24:24 2025 - IP 192.168.1.2 libérée et leases.json mis à jour
-Mon Aug  4 16:24:24 2025 - OFFER 192.168.1.2 → 02:00:00:1e:42:80
-Mon Aug  4 16:24:24 2025 - ACK 192.168.1.2 attribuée à 02:00:00:1e:42:80 (30s)
-Mon Aug  4 16:24:35 2025 - OFFER 192.168.1.3 → 02:00:00:49:65:16
-Mon Aug  4 16:24:35 2025 - ACK 192.168.1.3 attribuée à 02:00:00:49:65:16 (30s)
+Mon Aug  4 16:47:56 2025 - OFFER 192.168.1.2 → 02:00:00:7e:2d:53
+Mon Aug  4 16:47:56 2025 - ACK 192.168.1.2 attribuée à 02:00:00:7e:2d:53 (10s)
+Mon Aug  4 16:48:00 2025 - OFFER 192.168.1.3 → 02:00:00:76:f9:e1
+Mon Aug  4 16:48:00 2025 - ACK 192.168.1.3 attribuée à 02:00:00:76:f9:e1 (10s)
+Mon Aug  4 16:49:05 2025 - Bail expiré pour 192.168.1.2
+Mon Aug  4 16:49:05 2025 - IP 192.168.1.2 libérée et leases.json mis à jour
+Mon Aug  4 16:49:05 2025 - Bail expiré pour 192.168.1.3
+Mon Aug  4 16:49:05 2025 - IP 192.168.1.3 libérée et leases.json mis à jour
+Mon Aug  4 16:49:05 2025 - OFFER 192.168.1.2 → 02:00:00:49:96:93
+Mon Aug  4 16:49:05 2025 - ACK 192.168.1.2 attribuée à 02:00:00:49:96:93 (30s)
+Mon Aug  4 16:49:11 2025 - OFFER 192.168.1.3 → 02:00:00:5f:5b:ac
+Mon Aug  4 16:49:11 2025 - ACK 192.168.1.3 attribuée à 02:00:00:5f:5b:ac (30s)
+Mon Aug  4 16:49:21 2025 - OFFER 192.168.1.4 → 02:00:00:28:7b:c9
+Mon Aug  4 16:49:21 2025 - ACK 192.168.1.4 attribuée à 02:00:00:28:7b:c9 (30s)
+Mon Aug  4 16:49:23 2025 - OFFER 192.168.1.5 → 02:00:00:27:f4:a6
+Mon Aug  4 16:49:23 2025 - ACK 192.168.1.5 attribuée à 02:00:00:27:f4:a6 (30s)
+Mon Aug  4 16:49:24 2025 - OFFER 192.168.1.6 → 02:00:00:07:1c:ad
+Mon Aug  4 16:49:24 2025 - ACK 192.168.1.6 attribuée à 02:00:00:07:1c:ad (30s)
+Mon Aug  4 16:49:26 2025 - OFFER 192.168.1.7 → 02:00:00:4e:d5:2b
+Mon Aug  4 16:49:26 2025 - ACK 192.168.1.7 attribuée à 02:00:00:4e:d5:2b (30s)
+Mon Aug  4 16:49:27 2025 - OFFER 192.168.1.8 → 02:00:00:57:f5:51
+Mon Aug  4 16:49:27 2025 - ACK 192.168.1.8 attribuée à 02:00:00:57:f5:51 (30s)
+Mon Aug  4 16:49:28 2025 - OFFER 192.168.1.9 → 02:00:00:74:67:93
+Mon Aug  4 16:49:28 2025 - ACK 192.168.1.9 attribuée à 02:00:00:74:67:93 (30s)
+Mon Aug  4 16:49:31 2025 - OFFER 192.168.1.10 → 02:00:00:03:98:6c
+Mon Aug  4 16:49:31 2025 - ACK 192.168.1.10 attribuée à 02:00:00:03:98:6c (30s)
